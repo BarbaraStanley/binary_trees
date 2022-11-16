@@ -3,6 +3,7 @@
 
 #include <stdlib.h>
 #include <stdio.h>
+#include <stddef>
 
 /**
  * struct binary_tree_s - Binary tree node
